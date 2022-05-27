@@ -29,7 +29,7 @@ const Popular = () => {
   }, []);
   return (
     <Wrapper>
-      <h3>Random Picks</h3>
+      <h3>Popular Picks</h3>
       <Splide
         options={{
           perPage: 4,
